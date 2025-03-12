@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// ini dilakuin sebagai contoh latihan ya
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
@@ -43,5 +44,6 @@ class HomePage extends StatelessWidget {
       );
 
       //ini coba-coba ya
+
   }
 }
